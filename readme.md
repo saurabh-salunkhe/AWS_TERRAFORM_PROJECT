@@ -1,1 +1,1 @@
-this is the project of creatin infrastructure on AWS by using Terraform.
+this is the project of creating infrastructure on AWS by using Terraform.
